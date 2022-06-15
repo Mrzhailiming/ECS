@@ -1,0 +1,11 @@
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.csproj.AssemblyReference.cache
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.AssemblyInfoInputs.cache
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.AssemblyInfo.cs
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.csproj.CoreCompileInputs.cache
+D:\Code\ecs\bin\netcoreapp3.1\MySystem.deps.json
+D:\Code\ecs\bin\netcoreapp3.1\MySystem.dll
+D:\Code\ecs\bin\netcoreapp3.1\MySystem.pdb
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.csproj.CopyComplete
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.dll
+D:\Code\ecs\ECS\System\obj\Debug\netcoreapp3.1\MySystem.pdb

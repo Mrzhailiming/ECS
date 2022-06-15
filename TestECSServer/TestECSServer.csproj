@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\bin</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.9.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECS\ComponentInitMethods\ComponentInitMethods.csproj" />
+    <ProjectReference Include="..\ECS\Entity\Entity.csproj" />
+    <ProjectReference Include="..\ECS\Server\Server.csproj" />
+    <ProjectReference Include="..\ECS\Singleton\Singleton.csproj" />
+    <ProjectReference Include="..\ECS\SystemShare\SystemShare.csproj" />
+    <ProjectReference Include="..\ECS\System\SystemServer.csproj" />
+  </ItemGroup>
+
+</Project>
